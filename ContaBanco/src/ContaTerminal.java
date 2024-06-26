@@ -20,7 +20,7 @@ public class ContaTerminal {
         String nome = scanner.next();
 
         //Entrada do dado saldo
-        System.out.println("Digite número da conta:");
+        System.out.println("Digite seu saldo:");
         float saldo = scanner.nextFloat();
 
         //Imprimindo na tela
